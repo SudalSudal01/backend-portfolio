@@ -1,0 +1,5 @@
+# PDF는 텍스트 변환 없이 원본 바이트로 배포한다. CRLF 정규화로 내부 오프셋이 바뀌지 않게 한다.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.zip binary
